@@ -81,8 +81,8 @@ Notes:
    - Go to the official Git website: git-scm.com
 
    # Step 2: Select the operating system
-   - Clink on the appropiate operating system(Windows ,macOS or Linux)![alt text](<Screenshot (10).png>)
-   - Select the architecture(32-bit or 64-bit) that matches your system ![alt text](<Screenshot (2).png>)
+   - Clink on the appropiate operating system(Windows ,macOS or Linux)
+   - Select the architecture(32-bi![alt text](<Screenshot (11).png>)t or 64-bit) that matches your system ![alt text](<Screenshot (2).png>)
     
 
    # Step 3: Choose the installation package
