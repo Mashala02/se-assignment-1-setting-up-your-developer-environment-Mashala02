@@ -81,8 +81,8 @@ Notes:
    - Go to the official Git website: git-scm.com
 
    # Step 2: Select the operating system
-   - Clink on the appropiate operating system(Windows ,macOS or Linux)
-   - Select the architecture(32-bit or 64-bit) that matches your system !(<Screenshot (2).png>)
+   - Clink on the appropiate operating system(Windows ,macOS or Linux)![alt text](<Screenshot (10).png>)
+   - Select the architecture(32-bit or 64-bit) that matches your system ![alt text](<Screenshot (2).png>)
     
 
    # Step 3: Choose the installation package
@@ -200,8 +200,8 @@ By following these steps, you can download, install, and use pip to manage Pytho
 
 # Download MySQL Installer:
    - Go to the [MySQL Downloads page](https://dev.mysql.com/downloads/installer/).
-   - Choose the "MySQL Installer for Windows".
-   - Click on "Download" and select "No thanks, just start my download".(<MYSQL WEBSEITE.png>)
+   - Choose the "MySQL Installer for Windows".![alt text](<MYSQL WEBSEITE-1.png>)
+   - Click on "Download" and select "No thanks, just start my download".
 
 # Run the Installer
    - Once the download is complete, run the installer.
